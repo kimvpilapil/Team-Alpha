@@ -180,6 +180,7 @@ required skill set?**
 According to the graph, the top 3 rate skills in IT are SQL, Javacript and Java which we are currently learning in introductions to programming which will set us up higher in finding jobs in the future. Do be able to progress more, SQL should also be learned as it is ranked number 1 according to the graph.
 
 <br/>
+
 **How do the general skills in your required skill set rank in terms of demand
 from employers? What are the three highest ranked general skills which are not in your required
 skill set?**
@@ -194,9 +195,11 @@ Three highest ranked general skillset will be communication skills, problem solv
 
 
 <br/>
+
 **Having looked at the Burning Glass data, has your opinion of your ideal job changed?
 Why or why not?**
 
+<br/>
 After determining the ideal skills that employers are in high demand of, our ideal job hasn't changed because we are both passionate about AI's and VR's and are willing to further our education with studying even more. Learning doesn't stop after acquiring yur degree, it will only open new pathways for more knowledge to be soaked up to be able to go further in the future. Thus, the Burning Glass data shows that IT's job opportunities will be in high-demand in the future.
 
 <br/>
