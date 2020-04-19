@@ -186,6 +186,8 @@ According to the graph, the top 3 rate skills in IT are SQL, Javacript and Java 
 
 
 
+Three highest ranked general skillset will be communication skills, problem solving skills and organisation skills. Problem solving skills allow you to approach different kinds of projects in a very techical manner. Communication skills is also one of key components and highest ranked general skillset. The reason being, is that when working on projects, it is crucial that you interact with other team members to communicate different errors or a bugs or ideas. Otherwise it can be difficult to achieve the end result. When doing an IT project you'll find that most likely you will work in a group, as a team. Hence, being able to have an ability to organise the team to set deadlines and set a clear goal is an important skillset to have to achieve the desired end result. 
+
 
 <br/>
 
