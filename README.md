@@ -170,7 +170,8 @@ Kim:VR Software Developer (High-growth job)
 <br/>
 
 **How do the IT-specific skills in your required skill set rank in terms of demand
-from employers?**
+from employers? What are the three highest ranked IT-specific skills which are not in your
+required skill set?**
 <br/>
 
 ![IT graph](https://user-images.githubusercontent.com/62003066/79680867-e9882200-8257-11ea-812a-c164d80e3f62.jpg)
@@ -179,18 +180,24 @@ from employers?**
 According to the graph, the top 3 rate skills in IT are SQL, Javacript and Java which we are currently learning in introductions to programming which will set us up higher in finding jobs in the future. Do be able to progress more, SQL should also be learned as it is ranked number 1 according to the graph.
 
 <br/>
+**How do the general skills in your required skill set rank in terms of demand
+from employers? What are the three highest ranked general skills which are not in your required
+skill set?**
+<br/>
 
 ![general graph](https://user-images.githubusercontent.com/62003066/79680959-cb6ef180-8258-11ea-95e1-153981e48334.jpg)
 
+<br/>
 
-
-
-
+<br/>
 Three highest ranked general skillset will be communication skills, problem solving skills and organisation skills. Problem solving skills allow you to approach different kinds of projects in a very techical manner. Communication skills is also one of key components and highest ranked general skillset. The reason being, is that when working on projects, it is crucial that you interact with other team members to communicate different errors or a bugs or ideas. Otherwise it can be difficult to achieve the end result. When doing an IT project you'll find that most likely you will work in a group, as a team. Hence, being able to have an ability to organise the team to set deadlines and set a clear goal is an important skillset to have to achieve the desired end result. 
 
 
 <br/>
+**Having looked at the Burning Glass data, has your opinion of your ideal job changed?
+Why or why not?**
 
+After determining the ideal skills that employers are in high demand of, our ideal job hasn't changed because we are both passionate about AI's and VR's and are willing to further our education with studying even more. Learning doesn't stop after acquiring yur degree, it will only open new pathways for more knowledge to be soaked up to be able to go further in the future. Thus, the Burning Glass data shows that IT's job opportunities will be in high-demand in the future.
 
 <br/>
 
